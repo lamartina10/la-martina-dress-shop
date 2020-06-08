@@ -1,2 +1,98 @@
-# la-martina-dress-shop
-diseños exclusivos, comodidad y confort
+<html>
+<title><head> La Martina </head></title>
+<body background="im/6.jpg">
+<br>
+<br>
+<center>
+<embed src="vc.mp4" width="350px" height="380px" style="float:right"> <img src="ft/ca.jpg" width="450px" height="380px" stylw="float:center"> <embed src="va.mp4" width="350px" height="380px" style="float:left">
+</center>
+<br>
+<br>
+<center>
+<h1> La Martina Dress Shop es una empresa de ropa de mujer, Orgullosamente Mexicana dedicada a la fabricacion y distribucion de novedosos y exclusivos modelos.</h1>
+<h1> ¿Te interesa convertirte en distribuidor y adquirir nuestros modelos para emprender o hacer crecer tu negocio? </h1>
+<h1> Compartenos tu numero movil y dejanos mostrarte la propuesta que Martina Dress Shop tiene para ti.</h1>
+</center>
+<br>
+<br>
+<center>
+<p>
+<img src="ft/2c.jpg" width="200px" height="350px" aling="left"> <img src="ft/3c.jpg" width="200px" height="350px"/> <img src="ft/4c.jpg" width="200px" height="350px" aling="left"> <img src="ft/5c.jpg" width="200px" height="350px" aling="left"> <img src="ft/6c.jpg" width="200px" height="350px" aling="left"> <img src="ft/7c.jpg" width="200px" height="350px" aling="left"> <img src="ft/8c.jpg" width="200px" height="350px" aling="left"> <img src="ft/9c.jpg" width="200px" height="350px" aling="left"> <img src="ft/10c.jpg" width="200px" height="350px" aling="left">
+</center>
+<br>
+</p>
+<center>
+<h1>
+</h1>
+</center>
+<br>
+<br>
+<br>
+<center>
+<img src="ft/9b.jpg" width="200px" height="350px" aling="left"> <img src="ft/8b.jpg" width="200px" height="350px"/> <img src="ft/7b.jpg" width="200px" height="350px" aling="left"> <img src="ft/6b.jpg" width="200px" height="350px" aling="left"> <img src="ft/5b.jpg" width="200px" height="350px" aling="left"> <img src="ft/4b.jpg" width="200px" height="350px" aling="left"> <img src="ft/3b.jpg" width="200px" height="350px" aling="left"> <img src="ft/2b.jpg" width="200px" height="350px" aling="left"> <img src="ft/1b.jpg" width="200px" height="350px" aling="left">
+</center>
+<br>
+<br>
+<br>
+<center>
+
+</center>
+<br>
+<br>
+<br>
+<center>
+<img src="ft/1a.jpg" width="200px" height="350px" aling="left"> <img src="ft/2a.jpg" width="200px" height="350px" aling="left"> <img src="ft/3a.jpg" width="200px" height="350px" aling="left"> <img src="ft/4a.jpg" width="200px" height="350px" aling="left"> <img src="ft/5a.jpg" width="200px" height="350px" aling="left">
+</center>
+<br>
+<br>
+<br>
+<center>
+
+</center>
+<br>
+<br>
+<center>
+<controls>
+<embed src="vs.mp4" width="550px" height="480px">
+</center>
+<br>
+<br>
+<center>
+
+</center>
+<br>
+<br>
+<br>
+<center>
+<img src="ft/1m.jpg" width="200px" height="350px" aling="left"> <img src="ft/2m.jpg" width="200px" height="350px" aling="left"> <img src="ft/3m.jpg" width="200px" height="350px" aling="left"> 
+<br>
+<br>
+<center>
+<img src="ft/3m.jpg" width="200px" height="350px" aling="left"> <img src="ft/5m.jpg" width="200px" height="350px" aling="left">
+</center>
+<h2>Contactanos en nuestras redes sociales. </h2>
+<br>
+<h2><a href="https://www.facebook.com/fernanda.segura.52831"> Facebook</a></h2
+<br>
+<img src="ft/p1.jpeg" width="100px" height="100px" aling="left">
+<br>
+<h2> <a href="https://instagram.com/lamartina_cdmxdress?igshid=1ug1c3h9ryxlx"> Instagram </a> </h2>
+<img src="ft/p2.jpeg" width="100px" height="100px" aling="left">
+<br>
+<h2> Nuestro Whatsapp es: 5531176735 </h2>
+<img src="ft/p3.png" width="100px" height="100px" aling="left">
+<br>
+<h2> Correo electronico</h2>
+<h1>lamartina.seguraramos@gmail.com</h1>
+<br>
+<img src="ft/p4.jpg" width="100px" height="100px" aling="left">
+<br>
+<h2> <a href="https://twitter.com/LaMarti75610999?s=08&fbclid=IwAR3aw5brRbETymLKP8VYd1HmCwxzaTxJG1_9a9AddFdYAqRBMCl7EBzfEv4"> Twitter </a> </h2>
+<br>
+<img src="ft/p5.jpeg" width="100px" height="100px" aling="left">
+<br>
+<br>
+<img src="ft/zw.jpg" width="450px" height="550px" aling="left">
+<br>
+</body>
+</html>
